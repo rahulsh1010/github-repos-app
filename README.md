@@ -69,3 +69,7 @@ repo-dashboard/
 │── package.json
 │── README.md
 ```
+
+## Deployed Url
+
+https://git-repos-app.netlify.app/
